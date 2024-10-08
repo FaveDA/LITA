@@ -18,7 +18,7 @@
  
 ### Project Overview
 ---
-This Data Analysis project aims to extract valuable insights and knowlegde frOm data to enhance decision-making, optimize processes and drive business growth. Through various techniques including visualization, summary statistics and frequency distribution.   
+This Data Analysis project aims to extract valuable insights and knowlegde from data to enhance decision-making, optimize processes and drive business growth. Through various techniques including visualization, summary statistics and frequency distribution.   
 ### Data Sources
 ---
 The primary source of Data used here is Data Sale.csv and this is an open source data than can be freely downloaded from an open source online such as Kaggle or FRED or any other data repository site. 
@@ -45,7 +45,7 @@ The primary source of Data used here is Data Sale.csv and this is an open source
   
 - GitHub - For Portfolio Building
   
-- PowerBi  	[Download Here](https://www.microsoft.powerbi.com)
+- PowerBi  	[Download Here](https://www.microsoft.com)
   - For Data Visualization
 
 ### Data Cleaning and Preparations
