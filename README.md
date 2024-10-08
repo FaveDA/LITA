@@ -1,6 +1,6 @@
 # LITA_Class_Documentation
 
-### Project Title: E Commerce Sales Analysis
+### Project Title: My LITA Journey
 
  [Project Overview](#project-overview)
  
@@ -18,8 +18,7 @@
  
 ### Project Overview
 ---
-This Data Analysis project aims to generate insight into the sales performance of the E commerce project over the past year. By analyzing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
-
+This Data Analysis project aims to extract valuable insights and knowlegde frOm data to enhance decision-making, optimize processes and drive business growth. Through various techniques including visualization, summary statistics and frequency distribution.   
 ### Data Sources
 ---
 The primary source of Data used here is Data Sale.csv and this is an open source data than can be freely downloaded from an open source online such as Kaggle or FRED or any other data repository site. 
@@ -32,14 +31,22 @@ The primary source of Data used here is Data Sale.csv and this is an open source
 
      b. Removing Excess Spaces and Formatting Text ![Excel 2](https://github.com/user-attachments/assets/ec632348-4f67-4b34-8e97-dc4d5b1da8e9)
 
-     c. Using Vlookup
+     c. Using Vlookup ![Excel 4](https://github.com/user-attachments/assets/4d84ef4b-3020-4318-8896-eff325997fbf) ![Excel 3](https://github.com/user-attachments/assets/474eafe3-107b-446f-93ea-4635d0cebb19)
+
+
   2. For Analysis
-     a. Using Pivot Table for Report Summary
-  3. For Data Visualization.
+     a. Using Pivot Table for Report Summary ![Excel pivot](https://github.com/user-attachments/assets/ae784928-de44-4d7d-83c3-84876baac6ae)
+
+     
+  4. For Data Visualization ![Excel 5](https://github.com/user-attachments/assets/540edd2e-0a2a-4f4a-9c64-c9f1c71a44a4)
+
    
 - SQL – Structured Query Language for Querying of Data and Data Manipulation
+  
 - GitHub - For Portfolio Building
-- PowerBi - For Data Visualization
+  
+- PowerBi  	[Download Here](https://www.microsoft.powerbi.com)
+  - For Data Visualization
 
 ### Data Cleaning and Preparations
 ---
@@ -52,7 +59,7 @@ In the initial phase of the Data cleaning and preparations, we perform the follo
 ---
 EDA involved the exploring of the Data to answer some questions about the Data such as;
 -	What is the overall sales trend?
--	Which product are top sellers?
+-	Which products or regions are top sellers?
 -	What are the products on peak sales? 
 
 ### Data Analysis
@@ -66,16 +73,18 @@ WHERE CONDITION = TRUE
 
 ### Data Visualization
 
-![Bar chart](https://github.com/user-attachments/assets/511b5834-a067-4b41-aa4b-f001458e276b)
+![Bar chart 2](https://github.com/user-attachments/assets/c562a949-3f19-4320-9847-00b76be796bc)
 
-![Pie chart](https://github.com/user-attachments/assets/3b3ff3ef-116e-4ad6-8ed2-d27c2d8fbafe)
+![Pie chart](https://github.com/user-attachments/assets/4835decc-f748-484e-bf0c-af4b6b6cb7f6)
 
-🥇
 
-💻
 
-👍
-💯
+I'll keep practicising till I get better🥇
+
+Tech skill💻
+
+I like data analysis👍
+Kudos to my instructors💯
 
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
