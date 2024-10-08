@@ -28,11 +28,18 @@ The primary source of Data used here is Data Sale.csv and this is an open source
 ---
 - Microsoft Excel 	[Download Here](https://www.microsoft.com)
   1. For Data Cleaning
+     a. Simple Arithmetics ![Excel](https://github.com/user-attachments/assets/c6e9b97b-c7a6-4f50-8fce-e98a8e4ece29)
+
+     b. Removing Excess Spaces and Formatting Text ![Excel 2](https://github.com/user-attachments/assets/ec632348-4f67-4b34-8e97-dc4d5b1da8e9)
+
+     c. Using Vlookup
   2. For Analysis
+     a. Using Pivot Table for Report Summary
   3. For Data Visualization.
    
-- SQL – Structured Query Language for Querying of Data
-- GitHub for Portfolio Building
+- SQL – Structured Query Language for Querying of Data and Data Manipulation
+- GitHub - For Portfolio Building
+- PowerBi - For Data Visualization
 
 ### Data Cleaning and Preparations
 ---
@@ -59,12 +66,16 @@ WHERE CONDITION = TRUE
 
 ### Data Visualization
 
+![Bar chart](https://github.com/user-attachments/assets/511b5834-a067-4b41-aa4b-f001458e276b)
 
+![Pie chart](https://github.com/user-attachments/assets/3b3ff3ef-116e-4ad6-8ed2-d27c2d8fbafe)
 
 🥇
 
 💻
 
+👍
+💯
 
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
