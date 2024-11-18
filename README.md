@@ -81,7 +81,7 @@ WHERE CONDITION = TRUE
 
 
 
-I'll keep practicising till I get better🥇
+I'll keep practising till I get better🥇
 
 Tech skill💻
 
